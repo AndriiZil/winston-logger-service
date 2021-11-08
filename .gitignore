@@ -1,0 +1,14 @@
+# WebStorm
+.idea
+
+# Modules
+node_modules
+
+# LogFiles
+combined.log
+error.log
+
+.DS_Store
+
+# Compiled Files
+dist
